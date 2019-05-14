@@ -7,7 +7,7 @@ TODO - Add help and links to Confluent docs
 ## Install olt-ctl
 ### Get the code
 ```shell
-git@github.com:shadansari/olt-ctl.git
+git clone git@github.com:shadansari/olt-ctl.git
 ```
 
 ### Create the virtual env
